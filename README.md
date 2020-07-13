@@ -18,6 +18,7 @@
 - [ ] [ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་པ་གོ་བདེར་བཀྲལ་བ།](https://www.tbrc.org/?locale=bo#!rid=W4CZ295073)
 - [ ] [རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་གྱི་འགྲེལ་པ་གཞུང་དང་གདམས་ངག་ཟུང་འཇུག་བདུད་རྩིའི་བུམ་བཟང་།](https://www.tbrc.org/?locale=bo#!rid=W1AC260) W3CN525
 - [ ] [བཀའ་འབུམ།་རྒྱལ་དབང་བསྟན་འཛིན་རྒྱ་མཚོ། པོད། 3](https://www.tbrc.org/?locale=bo#library_work_ViewInWIndow-W1KG26102%7CI1KG26322%7C3%7C1%7C1%7C288)
+- [ ] [བོད་ཀྱི་ནང་ཆོས་ངོ་སྤྲོད་སྙིང་ཏིག](http://tibetanebooks.com/shungdrel/introduction-of-tibetan-buddhism)
 - [ ] [རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་ཚིག་འགྲེལ།](https://www.tbrc.org/?locale=bo#!rid=O3JT3512%7CO3JT35124CZ78226$W29513)
 - [ ] [རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་བསྡུས་དོན་རབ་གསལ་སྣང་བ།](https://www.tbrc.org/?locale=bo#!rid=O1PD86478%7CO1PD864781PD87123$W22389)
 - [ ] [རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་པ་རྒྱལ་སྲས་ཀྱི་སྤྱོད་པ་རྒྱ་མཚོར་བགྲོད་པའི་གྲུ་གཟིངས།](https://www.tbrc.org/?locale=bo#!rid=O1PD84604%7CO1PD846041PD84686$W23608)
