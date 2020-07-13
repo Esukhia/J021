@@ -12,7 +12,7 @@
 - [ ] 
 
 ## འགྲེལ་པ་ཁག
-- [x] [01-རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་པ་བྱང་ཆུབ་སེམས་སྤྲིན།](https://www.tbrc.org/?locale=bo#!rid=W1KG12304)
+- [ ] [01-རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་པ་བྱང་ཆུབ་སེམས་སྤྲིན།](https://www.tbrc.org/?locale=bo#!rid=W1KG12304)
 - [ ] [02-མཆན་འགྲེལ་ཡིད་ཀྱི་མུན་སེལ།](https://www.tbrc.org/?locale=bo#library_work_ViewInWIndow-W29664%7C5551%7C1%7C1%7C1%7C75)
 - [ ] [03-འགྲེལ་པ་དཔལ་གྱི་སྒྲོན་མེས་བརྒྱན་པ།](https://www.tbrc.org/?locale=bo#!rid=W1CZ2397)
 - [ ] [04-ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་པ་གོ་བདེར་བཀྲལ་བ།](https://www.tbrc.org/?locale=bo#!rid=W4CZ295073)
@@ -27,7 +27,7 @@
 - [ ] [13-རྒྱལ་སྲས་ལག་ལེན་གྱི་དཔེ་རིས།](https://www.tbrc.org/?locale=bo#!rid=W3CN554)
 - [ ] [14-ཐར་པའི་གྲུ་གཟིངས།](https://www.tbrc.org/?locale=bo#!rid=W3CN4336)
 - [ ] [15-རྒྱལ་སྲས་ལག་ལེན་གྱི་ཟིན་བྲིས་སྨྲ་སེང་ཆོས་རྗེའི་ཞལ་ཁྲིད།](https://www.tbrc.org/?locale=bo#!rid=W2PD19374)
-- [ ] [16-རྒྱལ་བའི་སྲས་ཀྱི་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་ཆུང་གཞན་ཕན་འཇུག་སྒོ་ཞེས་བྱ་བཞུགས་སོ།།](https://dharmacloud.tsadra.org/product/%e0%bd%a2%e0%be%92%e0%be%b1%e0%bd%a3%e0%bc%8b%e0%bd%96%e0%bd%a0%e0%bd%b2%e0%bc%8b%e0%bd%a6%e0%be%b2%e0%bd%a6%e0%bc%8b%e0%bd%80%e0%be%b1%e0%bd%b2%e0%bc%8b%e0%bd%a3%e0%bd%82%e0%bc%8b%e0%bd%a3%e0%bd%ba/)
+- [x] [16-རྒྱལ་བའི་སྲས་ཀྱི་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་ཆུང་གཞན་ཕན་འཇུག་སྒོ་ཞེས་བྱ་བཞུགས་སོ།།](https://dharmacloud.tsadra.org/product/%e0%bd%a2%e0%be%92%e0%be%b1%e0%bd%a3%e0%bc%8b%e0%bd%96%e0%bd%a0%e0%bd%b2%e0%bc%8b%e0%bd%a6%e0%be%b2%e0%bd%a6%e0%bc%8b%e0%bd%80%e0%be%b1%e0%bd%b2%e0%bc%8b%e0%bd%a3%e0%bd%82%e0%bc%8b%e0%bd%a3%e0%bd%ba/)
 - [ ] [17-]()
 - [ ] [18-]()
 - [ ] [19-]()
