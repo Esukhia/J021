@@ -8,6 +8,7 @@
 - [ ] [ས་བཅད།](https://www.tbrc.org/?locale=bo#library_work_ViewInWIndow-W8LS17742%7CI8LS17760%7C1%7C1%7C1%7C54)
 - [ ] [རྒྱལ་སྲས་ལག་ལེན་བཤད་པ།](https://www.tbrc.org/?locale=bo#!rid=O00EGS109585%7CO00EGS1095854CZ24972$W20548)
 - [ ] [༼ཕ༽རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་ས་བཅད།](https://www.tbrc.org/?locale=bo#!rid=O10206%7CO102064CZ213151$W10206)
+- [ ] [རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་ས་བཅད་རྒྱལ་སྲས་གྱི་དགོངས་སྤྱོད་ལས་ཕྱི་རོལ་ཏུ་མ་གྱུར་པ།](https://www.tbrc.org/?locale=bo#library_work_ViewByOutline-O1PD846041PD84687%7CW23608)
 - [ ] 
 
 ## འགྲེལ་པ་ཁག
@@ -20,7 +21,6 @@
 - [ ] [རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་ཚིག་འགྲེལ།](https://www.tbrc.org/?locale=bo#!rid=O3JT3512%7CO3JT35124CZ78226$W29513)
 - [ ] [རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་བསྡུས་དོན་རབ་གསལ་སྣང་བ།](https://www.tbrc.org/?locale=bo#!rid=O1PD86478%7CO1PD864781PD87123$W22389)
 - [ ] [རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་པ་རྒྱལ་སྲས་ཀྱི་སྤྱོད་པ་རྒྱ་མཚོར་བགྲོད་པའི་གྲུ་གཟིངས།](https://www.tbrc.org/?locale=bo#!rid=O1PD84604%7CO1PD846041PD84686$W23608)
-- [ ] [རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་ས་བཅད་རྒྱལ་སྲས་གྱི་དགོངས་སྤྱོད་ལས་ཕྱི་རོལ་ཏུ་མ་གྱུར་པ།](https://www.tbrc.org/?locale=bo#library_work_ViewByOutline-O1PD846041PD84687%7CW23608)
 - [ ] [འགྲེལ་པ་གཞན་ཕན་བདུད་རྩིའི་རོལ་མཚོ།](https://www.tbrc.org/?locale=bo#!rid=W1KG25122)
 - [ ] [ཚིག་འགྲེལ་བསྐལ་བཟང་རྒྱལ་སྲས་བྱེ་བའི་འཇུག་ངོགས།](https://www.tbrc.org/?locale=bo#!rid=W1KG25122)
 - [ ] [རྒྱལ་སྲས་ལག་ལེན་གྱི་དཔེ་རིས།](https://www.tbrc.org/?locale=bo#!rid=W3CN554)
