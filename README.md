@@ -2,14 +2,7 @@
 ལག་ལེན་སོ་བདུན་མའི་སྙི་ཆས།
 
 ## རྩ་བ།
-- [ ] 
-
-## ས་བཅད།
-- [ ] [01-ས་བཅད།](https://www.tbrc.org/?locale=bo#library_work_ViewInWIndow-W8LS17742%7CI8LS17760%7C1%7C1%7C1%7C54)
-- [ ] [02-རྒྱལ་སྲས་ལག་ལེན་བཤད་པ།](https://www.tbrc.org/?locale=bo#!rid=O00EGS109585%7CO00EGS1095854CZ24972$W20548)
-- [ ] [03-༼ཕ༽རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་ས་བཅད།](https://www.tbrc.org/?locale=bo#!rid=O10206%7CO102064CZ213151$W10206)
-- [ ] [04-རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་ས་བཅད་རྒྱལ་སྲས་གྱི་དགོངས་སྤྱོད་ལས་ཕྱི་རོལ་ཏུ་མ་གྱུར་པ།](https://www.tbrc.org/?locale=bo#library_work_ViewByOutline-O1PD846041PD84687%7CW23608)
-- [ ] 
+- [ ] 00
 
 ## འགྲེལ་པ་ཁག
 - [ ] [01-རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་པ་བྱང་ཆུབ་སེམས་སྤྲིན།](https://www.tbrc.org/?locale=bo#!rid=W1KG12304)
@@ -32,6 +25,15 @@
 - [x] [18-རྒྱས་སྲས་ལག་ལེན་སོ་བདུན་མའི་བསྡུས་འགྲེལ་སྲས་བཅས་རྒྱལ་བ་དགྱེས་པའི་མཆོད་སྤྲིན](https://bo.wikipedia.org/wiki/%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%A6%E0%BC%8B%E0%BD%A6%E0%BE%B2%E0%BD%A6%E0%BC%8B%E0%BD%A3%E0%BD%82%E0%BC%8B%E0%BD%A3%E0%BD%BA%E0%BD%93%E0%BC%8B%E0%BD%A6%E0%BD%BC%E0%BC%8B%E0%BD%96%E0%BD%91%E0%BD%B4%E0%BD%93%E0%BC%8B%E0%BD%98%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%96%E0%BD%A6%E0%BE%A1%E0%BD%B4%E0%BD%A6%E0%BC%8B%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BC%8B%E0%BD%A6%E0%BE%B2%E0%BD%A6%E0%BC%8B%E0%BD%96%E0%BD%85%E0%BD%A6%E0%BC%8B_%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%A3%E0%BC%8B%E0%BD%96%E0%BC%8B%E0%BD%91%E0%BD%82%E0%BE%B1%E0%BD%BA%E0%BD%A6%E0%BC%8B%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%98%E0%BD%86%E0%BD%BC%E0%BD%91%E0%BC%8B%E0%BD%A6%E0%BE%A4%E0%BE%B2%E0%BD%B2%E0%BD%93%E0%BC%8D)
 - [ ] [19-]()
 - [ ] [20-]()
+
+
+## ས་བཅད།
+- [ ] [21-ས་བཅད།](https://www.tbrc.org/?locale=bo#library_work_ViewInWIndow-W8LS17742%7CI8LS17760%7C1%7C1%7C1%7C54)
+- [ ] [22-རྒྱལ་སྲས་ལག་ལེན་བཤད་པ།](https://www.tbrc.org/?locale=bo#!rid=O00EGS109585%7CO00EGS1095854CZ24972$W20548)
+- [ ] [23-༼ཕ༽རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་ས་བཅད།](https://www.tbrc.org/?locale=bo#!rid=O10206%7CO102064CZ213151$W10206)
+- [ ] [24-རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་ས་བཅད་རྒྱལ་སྲས་གྱི་དགོངས་སྤྱོད་ལས་ཕྱི་རོལ་ཏུ་མ་གྱུར་པ།](https://www.tbrc.org/?locale=bo#library_work_ViewByOutline-O1PD846041PD84687%7CW23608)
+- [ ] 
+
 
 ## ཡིག་འཛིན་བྱེད་དགོས་པ་ཁག To OCR
 - 01 - W1KG12304
