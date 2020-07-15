@@ -16,7 +16,7 @@
 - [x] [02-མཆན་འགྲེལ་ཡིད་ཀྱི་མུན་སེལ།](https://www.tbrc.org/?locale=bo#library_work_ViewInWIndow-W29664%7C5551%7C1%7C1%7C1%7C75)
 - [ ] [03-འགྲེལ་པ་དཔལ་གྱི་སྒྲོན་མེས་བརྒྱན་པ།](https://www.tbrc.org/?locale=bo#!rid=W1CZ2397)
 - [x] [04-ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་པ་གོ་བདེར་བཀྲལ་བ།](https://www.tbrc.org/?locale=bo#!rid=W4CZ295073)
-- [ ] [05-རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་གྱི་འགྲེལ་པ་གཞུང་དང་གདམས་ངག་ཟུང་འཇུག་བདུད་རྩིའི་བུམ་བཟང་།](https://www.tbrc.org/?locale=bo#!rid=W1AC260) W3CN525, W3CN5574, W1KG25122
+- [x] [05-རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་གྱི་འགྲེལ་པ་གཞུང་དང་གདམས་ངག་ཟུང་འཇུག་བདུད་རྩིའི་བུམ་བཟང་།](https://www.tbrc.org/?locale=bo#!rid=W1AC260) W3CN525, W3CN5574, W1KG25122
 - [ ] [06-བཀའ་འབུམ།་རྒྱལ་དབང་བསྟན་འཛིན་རྒྱ་མཚོ། པོད། 3](https://www.tbrc.org/?locale=bo#library_work_ViewInWIndow-W1KG26102%7CI1KG26322%7C3%7C1%7C1%7C288)
 - [x] [07-བོད་ཀྱི་ནང་ཆོས་ངོ་སྤྲོད་སྙིང་ཏིག](http://tibetanebooks.com/shungdrel/introduction-of-tibetan-buddhism)
 - [ ] [08-རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་ཚིག་འགྲེལ།](https://www.tbrc.org/?locale=bo#!rid=O3JT3512%7CO3JT35124CZ78226$W29513)
@@ -28,10 +28,22 @@
 - [ ] [14-ཐར་པའི་གྲུ་གཟིངས།](https://www.tbrc.org/?locale=bo#!rid=W3CN4336)
 - [x] [15-རྒྱལ་སྲས་ལག་ལེན་གྱི་ཟིན་བྲིས་སྨྲ་སེང་ཆོས་རྗེའི་ཞལ་ཁྲིད།](https://www.tbrc.org/?locale=bo#!rid=W2PD19374)
 - [x] [16-རྒྱལ་བའི་སྲས་ཀྱི་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་ཆུང་གཞན་ཕན་འཇུག་སྒོ་ཞེས་བྱ་བཞུགས་སོ།།](https://dharmacloud.tsadra.org/product/%e0%bd%a2%e0%be%92%e0%be%b1%e0%bd%a3%e0%bc%8b%e0%bd%96%e0%bd%a0%e0%bd%b2%e0%bc%8b%e0%bd%a6%e0%be%b2%e0%bd%a6%e0%bc%8b%e0%bd%80%e0%be%b1%e0%bd%b2%e0%bc%8b%e0%bd%a3%e0%bd%82%e0%bc%8b%e0%bd%a3%e0%bd%ba/)
-- [ ] [17-]()
-- [ ] [18-]()
+- [x] [17-རྒྱལ་བའི་སྲས་ཀྱི་ལག་ལེན་སོ་བདུན་མའི་ཚིག་འགྲེལ་རྒྱལ་སྲས་ལམ་བཟང་གསལ་བའི་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།།](https://github.com/OpenPecha/P000625/blob/master/P000625.opf/base/v003.txt)
+- [x] [18-རྒྱས་སྲས་ལག་ལེན་སོ་བདུན་མའི་བསྡུས་འགྲེལ་སྲས་བཅས་རྒྱལ་བ་དགྱེས་པའི་མཆོད་སྤྲིན](https://bo.wikipedia.org/wiki/%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%A6%E0%BC%8B%E0%BD%A6%E0%BE%B2%E0%BD%A6%E0%BC%8B%E0%BD%A3%E0%BD%82%E0%BC%8B%E0%BD%A3%E0%BD%BA%E0%BD%93%E0%BC%8B%E0%BD%A6%E0%BD%BC%E0%BC%8B%E0%BD%96%E0%BD%91%E0%BD%B4%E0%BD%93%E0%BC%8B%E0%BD%98%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%96%E0%BD%A6%E0%BE%A1%E0%BD%B4%E0%BD%A6%E0%BC%8B%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BC%8B%E0%BD%A6%E0%BE%B2%E0%BD%A6%E0%BC%8B%E0%BD%96%E0%BD%85%E0%BD%A6%E0%BC%8B_%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%A3%E0%BC%8B%E0%BD%96%E0%BC%8B%E0%BD%91%E0%BD%82%E0%BE%B1%E0%BD%BA%E0%BD%A6%E0%BC%8B%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%98%E0%BD%86%E0%BD%BC%E0%BD%91%E0%BC%8B%E0%BD%A6%E0%BE%A4%E0%BE%B2%E0%BD%B2%E0%BD%93%E0%BC%8D)
 - [ ] [19-]()
 - [ ] [20-]()
+
+## ཡིག་འཛིན་བྱེད་དགོས་པ་ཁག།
+- 01 - W1KG12304
+- 03 - W1CZ2397, W4CZ307779
+- 05 - W3CN5574, W1KG25122
+- 06 - W4CZ294732
+- 09 - W22389 (2.663-672)
+- 010 - W23608 (4.889-946)
+- 011 - W1KG25122 [ཡིག་འཛིན་བྱས་འདུག འོན་ཀྱང་ཡག་པོ་མི་འདུག](https://raw.githubusercontent.com/OpenPecha/P009263/master/P009263.opf/base/v001.txt)
+- 012 - W1KG25122 [ཡིག་འཛིན་བྱས་འདུག འོན་ཀྱང་ཡག་པོ་མི་འདུག](https://raw.githubusercontent.com/OpenPecha/P009263/master/P009263.opf/base/v001.txt)
+- 013 - W3CN554
+- 014 - W3CN4336
 
 
 ## རྩ་བའི་སྒྲ།
