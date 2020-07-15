@@ -22,8 +22,8 @@
 - [x] [15-རྒྱལ་སྲས་ལག་ལེན་གྱི་ཟིན་བྲིས་སྨྲ་སེང་ཆོས་རྗེའི་ཞལ་ཁྲིད།](https://www.tbrc.org/?locale=bo#!rid=W2PD19374)
 - [x] [16-རྒྱལ་བའི་སྲས་ཀྱི་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་ཆུང་གཞན་ཕན་འཇུག་སྒོ་ཞེས་བྱ་བཞུགས་སོ།།](https://dharmacloud.tsadra.org/product/%e0%bd%a2%e0%be%92%e0%be%b1%e0%bd%a3%e0%bc%8b%e0%bd%96%e0%bd%a0%e0%bd%b2%e0%bc%8b%e0%bd%a6%e0%be%b2%e0%bd%a6%e0%bc%8b%e0%bd%80%e0%be%b1%e0%bd%b2%e0%bc%8b%e0%bd%a3%e0%bd%82%e0%bc%8b%e0%bd%a3%e0%bd%ba/)
 - [x] [17-རྒྱལ་བའི་སྲས་ཀྱི་ལག་ལེན་སོ་བདུན་མའི་ཚིག་འགྲེལ་རྒྱལ་སྲས་ལམ་བཟང་གསལ་བའི་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།།](https://github.com/OpenPecha/P000625/blob/master/P000625.opf/base/v003.txt)
-- [x] [18-རྒྱས་སྲས་ལག་ལེན་སོ་བདུན་མའི་བསྡུས་འགྲེལ་སྲས་བཅས་རྒྱལ་བ་དགྱེས་པའི་མཆོད་སྤྲིན](https://bo.wikipedia.org/wiki/%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%A6%E0%BC%8B%E0%BD%A6%E0%BE%B2%E0%BD%A6%E0%BC%8B%E0%BD%A3%E0%BD%82%E0%BC%8B%E0%BD%A3%E0%BD%BA%E0%BD%93%E0%BC%8B%E0%BD%A6%E0%BD%BC%E0%BC%8B%E0%BD%96%E0%BD%91%E0%BD%B4%E0%BD%93%E0%BC%8B%E0%BD%98%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%96%E0%BD%A6%E0%BE%A1%E0%BD%B4%E0%BD%A6%E0%BC%8B%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BC%8B%E0%BD%A6%E0%BE%B2%E0%BD%A6%E0%BC%8B%E0%BD%96%E0%BD%85%E0%BD%A6%E0%BC%8B_%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%A3%E0%BC%8B%E0%BD%96%E0%BC%8B%E0%BD%91%E0%BD%82%E0%BE%B1%E0%BD%BA%E0%BD%A6%E0%BC%8B%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%98%E0%BD%86%E0%BD%BC%E0%BD%91%E0%BC%8B%E0%BD%A6%E0%BE%A4%E0%BE%B2%E0%BD%B2%E0%BD%93%E0%BC%8D)
-- [ ] [19-]()
+- [x] [18-རྒྱས་སྲས་ལག་ལེན་སོ་བདུན་མའི་བསྡུས་འགྲེལ་སྲས་བཅས་རྒྱལ་བ་དགྱེས་པའི་མཆོད་སྤྲིན།](https://bo.wikipedia.org/wiki/%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%A6%E0%BC%8B%E0%BD%A6%E0%BE%B2%E0%BD%A6%E0%BC%8B%E0%BD%A3%E0%BD%82%E0%BC%8B%E0%BD%A3%E0%BD%BA%E0%BD%93%E0%BC%8B%E0%BD%A6%E0%BD%BC%E0%BC%8B%E0%BD%96%E0%BD%91%E0%BD%B4%E0%BD%93%E0%BC%8B%E0%BD%98%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%96%E0%BD%A6%E0%BE%A1%E0%BD%B4%E0%BD%A6%E0%BC%8B%E0%BD%A0%E0%BD%82%E0%BE%B2%E0%BD%BA%E0%BD%A3%E0%BC%8B%E0%BD%A6%E0%BE%B2%E0%BD%A6%E0%BC%8B%E0%BD%96%E0%BD%85%E0%BD%A6%E0%BC%8B_%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%A3%E0%BC%8B%E0%BD%96%E0%BC%8B%E0%BD%91%E0%BD%82%E0%BE%B1%E0%BD%BA%E0%BD%A6%E0%BC%8B%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%98%E0%BD%86%E0%BD%BC%E0%BD%91%E0%BC%8B%E0%BD%A6%E0%BE%A4%E0%BE%B2%E0%BD%B2%E0%BD%93%E0%BC%8D)
+- [ ] [19-རྒྱལ་བའི་སྲས་ཀྱི་ལག་ལེན་སུམ་ཅུ་སོ་བདུན་མ་ཐུན་དུ་བཅད་ནས་ཉམས་སུ་ལེན་བྱེད་ལྷན་ཐབས་བྱང་ཆུབ་མྱུར་ལམ ༼རྒྱལ་སྲས་ལག་ལེན་ལྷན་ཐབས༽](http://library.bdrc.io/show/bdr:MW29036_D38682?s=q%3D%2522%25E0%25BD%2589%25E0%25BD%2598%25E0%25BD%25A6%25E0%25BC%258B%25E0%25BD%25A6%25E0%25BD%25B4%25E0%25BC%258B%25E0%25BD%25A3%25E0%25BD%25BA%25E0%25BD%2593%25E0%25BC%258B%25E0%25BD%2596%25E0%25BE%25B1%25E0%25BD%25BA%25E0%25BD%2591%25E0%25BC%258B%25E0%25BD%25A3%25E0%25BE%25B7%25E0%25BD%2593%25E0%25BC%258B%25E0%25BD%2590%25E0%25BD%2596%25E0%25BD%25A6%25E0%25BC%258B%25E0%25BD%2596%25E0%25BE%25B1%25E0%25BD%2584%25E0%25BC%258B%25E0%25BD%2586%25E0%25BD%25B4%25E0%25BD%2596%25E0%25BC%258B%25E0%25BD%2598%25E0%25BE%25B1%25E0%25BD%25B4%25E0%25BD%25A2%25E0%25BC%258B%25E0%25BD%25A3%25E0%25BD%2598%25E0%25BC%258B%2522~1%26lg%3Dbo%26t%3DInstance%26n%3D1)
 - [ ] [20-]()
 
 
@@ -41,12 +41,12 @@
 - 05 - W3CN5574, W1KG25122
 - 06 - W4CZ294732
 - 09 - W22389 (2.663-672)
-- 010 - W23608 (4.889-946)
-- 011 - W1KG25122 [ཡིག་འཛིན་བྱས་འདུག འོན་ཀྱང་ཡག་པོ་མི་འདུག](https://raw.githubusercontent.com/OpenPecha/P009263/master/P009263.opf/base/v001.txt)
-- 012 - W1KG25122 [ཡིག་འཛིན་བྱས་འདུག འོན་ཀྱང་ཡག་པོ་མི་འདུག](https://raw.githubusercontent.com/OpenPecha/P009263/master/P009263.opf/base/v001.txt)
-- 013 - W3CN554
-- 014 - W3CN4336
-
+- 10 - W23608 (4.889-946)
+- 11 - W1KG25122 [ཡིག་འཛིན་བྱས་འདུག འོན་ཀྱང་ཡག་པོ་མི་འདུག](https://raw.githubusercontent.com/OpenPecha/P009263/master/P009263.opf/base/v001.txt)
+- 12 - W1KG25122 [ཡིག་འཛིན་བྱས་འདུག འོན་ཀྱང་ཡག་པོ་མི་འདུག](https://raw.githubusercontent.com/OpenPecha/P009263/master/P009263.opf/base/v001.txt)
+- 13 - W3CN554
+- 14 - W3CN4336
+- 19 - W29036 (5.119-144)
 
 ## རྩ་བའི་སྒྲ།
 - [ ] []()
