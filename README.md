@@ -41,7 +41,7 @@
 - 09 - W22389 (2.663-672)
 - 010 - W23608 (4.889-946)
 - 011 - W1KG25122 [ཡིག་འཛིན་བྱས་འདུག འོན་ཀྱང་ཡག་པོ་མི་འདུག](https://raw.githubusercontent.com/OpenPecha/P009263/master/P009263.opf/base/v001.txt)
-- 012 - མི་འདུག
+- 012 - W1KG25122 [ཡིག་འཛིན་བྱས་འདུག འོན་ཀྱང་ཡག་པོ་མི་འདུག](https://raw.githubusercontent.com/OpenPecha/P009263/master/P009263.opf/base/v001.txt)
 - 013 - W3CN554
 - 014 - W3CN4336
 
