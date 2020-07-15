@@ -41,12 +41,12 @@
 - 05 - W3CN5574, W1KG25122
 - 06 - W4CZ294732
 - 09 - W22389 (2.663-672)
-- 010 - W23608 (4.889-946)
-- 011 - W1KG25122 [ཡིག་འཛིན་བྱས་འདུག འོན་ཀྱང་ཡག་པོ་མི་འདུག](https://raw.githubusercontent.com/OpenPecha/P009263/master/P009263.opf/base/v001.txt)
-- 012 - W1KG25122 [ཡིག་འཛིན་བྱས་འདུག འོན་ཀྱང་ཡག་པོ་མི་འདུག](https://raw.githubusercontent.com/OpenPecha/P009263/master/P009263.opf/base/v001.txt)
-- 013 - W3CN554
-- 014 - W3CN4336
-- 019 - W29036 (5.119-144)
+- 10 - W23608 (4.889-946)
+- 11 - W1KG25122 [ཡིག་འཛིན་བྱས་འདུག འོན་ཀྱང་ཡག་པོ་མི་འདུག](https://raw.githubusercontent.com/OpenPecha/P009263/master/P009263.opf/base/v001.txt)
+- 12 - W1KG25122 [ཡིག་འཛིན་བྱས་འདུག འོན་ཀྱང་ཡག་པོ་མི་འདུག](https://raw.githubusercontent.com/OpenPecha/P009263/master/P009263.opf/base/v001.txt)
+- 13 - W3CN554
+- 14 - W3CN4336
+- 19 - W29036 (5.119-144)
 
 ## རྩ་བའི་སྒྲ།
 - [ ] []()
